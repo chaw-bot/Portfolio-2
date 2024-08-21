@@ -107,10 +107,6 @@ body,
   box-shadow: 0 4px 4px 0 rgba(255, 218, 34, 0.25);
 }
 
-/* .projects {
-  justify-content: space-between;
-} */
-
 .read_more {
     white-space: nowrap;
     overflow: hidden;
@@ -582,7 +578,6 @@ img {
     width: 22%;
   }
 
-  /* .homemain, */
   .projectsmain,
   .aboutmain,
   .contactmain {
